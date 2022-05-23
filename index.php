@@ -482,15 +482,15 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Pricing</h2>
+          <h2 data-aos="fade-in">Sponsorships</h2>
           <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row no-gutters">
 
           <div class="col-lg-4 box" data-aos="zoom-in">
-            <h3>Free</h3>
-            <h4>$0<span>per month</span></h4>
+            <h3>Silver</h3>
+            <h4>₹10K <span>+18%GST</span></h4>
             <ul>
               <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
               <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
@@ -503,8 +503,8 @@
 
           <div class="col-lg-4 box featured" data-aos="zoom-in">
             <span class="featured-badge">Featured</span>
-            <h3>Business</h3>
-            <h4>$29<span>per month</span></h4>
+            <h3>Platinum</h3>
+            <h4>₹50K <span>+18%GST</span></h4>
             <ul>
               <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
               <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
@@ -516,8 +516,8 @@
           </div>
 
           <div class="col-lg-4 box" data-aos="zoom-in">
-            <h3>Developer</h3>
-            <h4>$49<span>per month</span></h4>
+            <h3>Gold</h3>
+            <h4>₹100K <span>+18%GST</h4>
             <ul>
               <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
               <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
