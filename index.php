@@ -415,7 +415,7 @@
           <div class="col-lg-4 box featured" data-aos="zoom-in">
             <span class="featured-badge">Featured</span>
             <h3>Platinum</h3>
-            <h4>₹50K <span>+18%GST</span></h4>
+            <h4>₹100K <span>+18%GST</span></h4>
             <ul>
             <li><i class="bx bx-check"></i>Logo and name of your organization will be put on the print media, website and program.</li>
             <li><i class="bx bx-check"></i>Promotional Material and Gifts</li>
@@ -427,7 +427,7 @@
 
           <div class="col-lg-4 box" data-aos="zoom-in">
             <h3>Gold</h3>
-            <h4>₹100K <span>+18%GST</h4>
+            <h4>₹50K <span>+18%GST</h4>
             <ul>
             <li><i class="bx bx-check"></i>Logo and name of your organization will be put on the print media, website and program.</li>
             <li><i class="bx bx-check"></i>Promotional Material and Gifts</li>
