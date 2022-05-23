@@ -7,18 +7,11 @@
 
         <div class="row  justify-content-center">
           <div class="col-lg-6">
-            <h3>Bocor</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+            <h3>YPSIC 2022</h3>
           </div>
         </div>
 
-        <div class="row footer-newsletter justify-content-center">
-          <div class="col-lg-6">
-            <form action="" method="post">
-              <input type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
+       
 
         <div class="social-links">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -31,13 +24,11 @@
       </div>
     </div>
 
-    <div class="container footer-bottom clearfix">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Bocor</span></strong>. All Rights Reserved
+    <div class="container footer-bottom clearfix col-lg-12">
+      <div class="copyright offset-4">
+        &copy; Copyright <strong><span>IEEE Young Professionals | IEEE Bangalore Section</span></strong>
       </div>
-      <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
+      
     </div>
   </footer><!-- End Footer -->
 
