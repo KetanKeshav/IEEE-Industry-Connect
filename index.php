@@ -504,7 +504,7 @@
           <div class="col-lg-4 box featured" data-aos="zoom-in">
             <span class="featured-badge">Featured</span>
             <h3>Platinum</h3>
-            <h4>₹50K <span>+18%GST</span></h4>
+            <h4>₹100K <span>+18%GST</span></h4>
             <ul>
               <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
               <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
@@ -517,7 +517,7 @@
 
           <div class="col-lg-4 box" data-aos="zoom-in">
             <h3>Gold</h3>
-            <h4>₹100K <span>+18%GST</h4>
+            <h4>₹50K <span>+18%GST</h4>
             <ul>
               <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
               <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
