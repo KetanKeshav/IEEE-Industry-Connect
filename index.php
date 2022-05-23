@@ -92,32 +92,17 @@
           <div class="image col-xl-5"></div>
           <div class="col-xl-7">
             <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
-              <h3 data-aos="fade-in" data-aos-delay="100">Voluptatem dignissimos provident quasi</h3>
+              <h3 data-aos="fade-in" data-aos-delay="100">About the Event</h3>
               <p data-aos="fade-in">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+              IEEE Young Professionals(Bangalore Section) in association with IEEE Bangalore Section is organizing “YP Student Industry Connect 2022”(YPSIC 2022), a once-in-a lifetime chance for students to network with professionals.
               </p>
-              <div class="row gy-4 mt-3">
-                <div class="col-md-6 icon-box" data-aos="fade-up">
-                  <i class="bx bx-receipt"></i>
-                  <h4><a href="#">Corporis voluptates sit</a></h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <i class="bx bx-cube-alt"></i>
-                  <h4><a href="#">Ullamco laboris nisi</a></h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-images"></i>
-                  <h4><a href="#">Labore consequatur</a></h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bx bx-shield"></i>
-                  <h4><a href="#">Beatae veritatis</a></h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                </div>
-              </div>
+              <br>
+              <br>
+              <p data-aos="fade-in">
+              Undergraduate and graduate students will connect with specialists from industry, startups and research groups at YPSIC 2022. This would lead to talks about innovative ideas from the youthful talent pool that are closely related to current industry trends. The two-day event will include technical discussions from industry professionals as well as live interaction with students to explore additional opportunities. 
+
+              </p>
+            
             </div><!-- End .content-->
           </div>
         </div>
