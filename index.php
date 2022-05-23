@@ -110,77 +110,15 @@
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2 data-aos="fade-in">Services</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 d-flex" data-aos="fade-right">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/services-1.jpg" alt="...">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Temporibus laudantium</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 d-flex" data-aos="fade-left">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/services-2.jpg" alt="...">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Aperiores voluptates</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-
-          </div>
-          <div class="col-md-6 d-flex" data-aos="fade-right">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/services-3.jpg" alt="...">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Veritatis natus nisi</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
-                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 d-flex" data-aos="fade-left">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/services-4.jpg" alt="...">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Aliquam veritatis</a></h5>
-                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut incidunt aut</p>
-                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
+    
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features section-bg">
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Features</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 data-aos="fade-in">BENEFITS</h2>
+          <p data-aos="fade-in">The IEEE YPSIC 2022 brings forth a great opportunity for both the students and the industries bringing people from both the communities with a variety of opportunities.</p>
         </div>
 
         <div class="row content">
@@ -188,66 +126,43 @@
             <img src="assets/img/features-1.svg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4" data-aos="fade-left">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>FOR THE STUDENTS</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              
             </p>
             <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="bi bi-arrow-right"></i> Network and ideate with several industry participants at a single event, including private companies, R&D labs and startups.</li>
+              <li><i class="bi bi-arrow-right"></i> Understand current industry trends and practices.</li>
+              <li><i class="bi bi-arrow-right"></i> Explore how to translate your ideas to practice with guidance from industry experts.</li>
+              <li><i class="bi bi-arrow-right"></i> Align with industry players having common interests and plan your career journey with the right guidance from them.</li>
+              <li><i class="bi bi-arrow-right"></i> Engage with industry participants for internships or other opportunities.</li>
+              <li><i class="bi bi-arrow-right"></i> Join the IEEE YP Network and be a part of the large and vibrant community of like-minded young professionals.
+</li>
             </ul>
           </div>
         </div>
 
-        <div class="row content">
-          <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/features-2.svg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div>
+        
 
-        <div class="row content">
-          <div class="col-md-5" data-aos="fade-right">
-            <img src="assets/img/features-3.svg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 pt-5" data-aos="fade-left">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div>
-
+        
         <div class="row content">
           <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
             <img src="assets/img/features-4.svg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
+            <h3>FOR THE INDUSTRY</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            <ul>
+              <li><i class="bi bi-arrow-right"></i>Provide a unique opportunity to engage with a large student community and tap into the innovative, young talent across colleges, facilitated by the IEEE YP network.</li>
+              <li><i class="bi bi-arrow-right"></i> Ideate and devise innovative solutions with industrial utility through interactions with students </li>
+              <li><i class="bi bi-arrow-right"></i> Build long-term engagement with students by offering internships or job opportunities, especially since final year students are looking for jobs or internships at this time. </li>
+              <li><i class="bi bi-arrow-right"></i> Wide publicity among the student community which you may facilitate by setting up your own kiosks and conducting engagement tasks live with students</li>
+              <li><i class="bi bi-arrow-right"></i> Engage actively with IEEE (and YPs) through sponsorships, including future events at section and national levels, increasing visibility at multiple forums, including IEEE eNotices, website and social media handles.</li>
+              
+</li>
+            </ul>
             </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            
           </div>
         </div>
 
@@ -259,7 +174,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Portfolio</h2>
+          <h2 data-aos="fade-in">Agenda</h2>
           <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -492,11 +407,7 @@
             <h3>Silver</h3>
             <h4>₹10K <span>+18%GST</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-              <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
-              <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+              <li><i class="bx bx-check"></i>Logo and name of your organization will be put on the print media, website and program.</li>
             </ul>
             <a href="#" class="get-started-btn">Get Started</a>
           </div>
@@ -506,11 +417,10 @@
             <h3>Platinum</h3>
             <h4>₹50K <span>+18%GST</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-              <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-              <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+            <li><i class="bx bx-check"></i>Logo and name of your organization will be put on the print media, website and program.</li>
+            <li><i class="bx bx-check"></i>Promotional Material and Gifts</li>
+            <li><i class="bx bx-check"></i>Inclusion of Sponsor at YP events conducted at section and national level.
+</li>
             </ul>
             <a href="#" class="get-started-btn">Get Started</a>
           </div>
@@ -519,11 +429,8 @@
             <h3>Gold</h3>
             <h4>₹100K <span>+18%GST</h4>
             <ul>
-              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-              <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-              <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+            <li><i class="bx bx-check"></i>Logo and name of your organization will be put on the print media, website and program.</li>
+            <li><i class="bx bx-check"></i>Promotional Material and Gifts</li>
             </ul>
             <a href="#" class="get-started-btn">Get Started</a>
           </div>
