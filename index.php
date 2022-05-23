@@ -123,7 +123,7 @@
 
         <div class="row content">
           <div class="col-md-5" data-aos="fade-right">
-            <img src="assets/img/5293.jpg" class="img-fluid" alt="">
+            <img src="assets/img/students.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4" data-aos="fade-left">
             <h3>FOR THE STUDENTS</h3>
@@ -147,7 +147,7 @@
         
         <div class="row content">
           <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/features-4.svg" class="img-fluid" alt="">
+            <img src="assets/img/industry.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
             <h3>FOR THE INDUSTRY</h3>
