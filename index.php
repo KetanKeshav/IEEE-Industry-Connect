@@ -246,7 +246,9 @@
 
         <div class="section-title">
           <h2 data-aos="fade-in">Sponsorships</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p data-aos="fade-in">We welcome participation from industry players including private companies, R&D labs and government institutions and startups. Please reach out to organizing committee members for further details.</p>
+          <p data-aos="fade-in">Sumit Soman - sumitsoman@ieee.org</p>
+          <p data-aos="fade-in">Ketan Keshav - ketan.keshav@ieee.org</p>
         </div>
 
         <div class="row no-gutters">
@@ -294,17 +296,18 @@
 
         <div class="section-title">
           <h2 data-aos="fade-in">Frequently Asked Questions</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p data-aos="fade-in">The following are some of the most commonly asked questions by students and industry partners.</p>
         </div>
 
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+            <h4>What is the IEEE YP Student Industry Connect Event?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+            YPSIC 2022 is a unique networking event to connect leading industry professionals with undergraduate/postgraduate students. The event will enable students to understand industry trends and practices to be able to pursue careers related to their technical interests.
+
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -312,11 +315,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h4>
+            <h4> How will students benefit from the event?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
+            Students in the completing years of their undergraduate or postgraduate are on the lookout for opportunities. There are currently very limited forums available for them to explore opportunities based on their interests or identify and understand current industry trends. This event would provide a useful forum to facilitate such discussions.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -324,11 +327,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</h4>
+            <h4>How will industry participants benefit from the event?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus.
+            For the industry participants, the event is a single window to engage and connect with a diverse set of innovative young minds. This event provides them a diverse spectrum as opposed to individual campus drives or other modes of engagement.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -336,11 +339,14 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h4>
+            <h4> What all will the event comprise of?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Aperiam itaque sit optio et deleniti eos nihil quidem cumque. Voluptas dolorum accusantium sunt sit enim. Provident consequuntur quam aut reiciendis qui rerum dolorem sit odio. Repellat assumenda soluta sunt pariatur error doloribus fuga.
+            The event will comprise of two parts: 
+<br>The first part would feature talks from experts from onboarded (participating) industry (government and private sector), research labs or start-ups on various technical topics in hybrid (offline+webinar) mode. This may be conducted either as a half or full day slot, based on the number of talks by participating organizations.
+<br>The second part would involve registered students directly interacting with experts and industry booths at a physical event. This would be a networking event for potential avenues of engagement between students and industry professionals.
+
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -348,11 +354,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h4>
+            <h4>When and where will the event take place?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+              This Event is tentatively planned for 4th-5th June 2022 at Atria Institute of Technology, Hebbal, Bengaluru.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
