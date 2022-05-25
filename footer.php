@@ -11,16 +11,37 @@
           </div>
         </div>
 
-       
-
-        <div class="social-links">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <div class="row mt-3">
+        <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Connect With IEEE</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers at IEEE</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ieeeaps.org/">IEEE APS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://mtt.org/">IEEE MTT-S</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a></li>
+            </ul>
         </div>
 
+        <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Membership</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.ieee.org/membership/join/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.ieee.org/membership/renew.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.ieee.org/membership/benefits/index.html">Benefits</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE Collabratec</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Organizing Committee</a></li>
+            </ul>
+        </div>
+
+        </div>
       </div>
     </div>
 

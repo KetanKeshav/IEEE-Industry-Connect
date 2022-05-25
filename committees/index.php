@@ -100,7 +100,7 @@
             </div>
           </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <div class="col-xl-3 col-lg-4 col-md-6 offset-4">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="pic"><img src="../assets/img/team//Ketan.jpg" alt=""></div>
               <h4>Ketan Keshav</h4>
