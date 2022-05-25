@@ -10,11 +10,11 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About The Event</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Sponsorships</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Agenda</a></li>
-          <li><a class="nav-link scrollto" href="./committees/">Committee</a></li>
+          <li><a class="nav-link scrollto" href="./committees/">Organizing Committee</a></li>
           <li><a class="nav-link scrollto" href="#student-reg">Registration</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="https://in.explara.com/e/ypsic2022">Register Now</a></li>

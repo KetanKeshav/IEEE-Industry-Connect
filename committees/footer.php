@@ -16,8 +16,8 @@
       <h4>Connect With IEEE</h4>
       <ul>
         <li><i class="bx bx-chevron-right"></i> <a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers at IEEE</a></li>
-        <li><i class="bx bx-chevron-right"></i> <a href="https://ieeeaps.org/">IEEE APS</a></li>
-        <li><i class="bx bx-chevron-right"></i> <a href="https://mtt.org/">IEEE MTT-S</a></li>
+        <li><i class="bx bx-chevron-right"></i> <a href="https://yp.ieee.org/">IEEE YP</a></li>
+        <li><i class="bx bx-chevron-right"></i> <a href="https://yp.ieeer10.org/">IEEE R10 YP</a></li>
         <li><i class="bx bx-chevron-right"></i> <a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a></li>
       </ul>
   </div>
