@@ -23,8 +23,8 @@
     <div class="container">
       <div class="row d-flex align-items-center">
       <div class=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
-        <h1>Young Professionals Student Industry Connect </h1>
-        <h2> 2022</h2>
+        <h1>Young Professionals Student Industry Connect 2022 </h1>
+        <h2> June 4-5 2022</h2>
         <a href="https://in.explara.com/e/ypsic2022" class="btn-get-started scrollto">Register Now</a>
       </div>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
