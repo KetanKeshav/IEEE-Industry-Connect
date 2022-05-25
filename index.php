@@ -199,8 +199,7 @@
             <ul>
             <li><i class="bx bx-check"></i>Logo and name of your organization will be put on the print media, website and program.</li>
             <li><i class="bx bx-check"></i>Promotional Material and Gifts</li>
-            <li><i class="bx bx-check"></i>Inclusion of Sponsor at YP events conducted at section and national level.
-</li>
+            <li><i class="bx bx-check"></i>Inclusion of Sponsor at YP events conducted at section and national level.</li>
             </ul>
             
           </div>
@@ -218,7 +217,47 @@
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section>
+    <!-- End Pricing Section -->
+
+    <!-- ======= Pricing Section ======= -->
+    <section id="student-reg" class="pricing section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2 data-aos="fade-in">Student Registration</h2>
+        </div>
+
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col">S. No.</th>
+              <th scope="col">Student Category</th>
+              <th scope="col">Registration Fee (Early Bird) - INR</th>
+              <th scope="col">Registration Fee (Onspot) - INR</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>IEEE Member</td>
+              <td>100</td>
+              <td>200</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Non-IEEE Member</td>
+              <td>150</td>
+              <td>300</td>
+            </tr>
+          </tbody>
+        </table>
+
+       
+
+      </div>
+    </section>
+    <!-- End Pricing Section -->    
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
