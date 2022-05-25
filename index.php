@@ -38,7 +38,7 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients section-bg">
+    <!-- <section id="clients" class="clients section-bg">
       <div class="container">
 
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
@@ -82,7 +82,8 @@
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section> -->
+    <!-- End Clients Section -->
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about section-bg">
