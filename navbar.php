@@ -10,7 +10,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About The Event</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Sponsorships</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Agenda</a></li>

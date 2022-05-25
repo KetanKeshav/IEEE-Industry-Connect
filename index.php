@@ -252,7 +252,9 @@
             </tr>
           </tbody>
         </table>
-
+        <center>
+        <a href="https://in.explara.com/e/ypsic2022" class="btn-register">Register Now</a>
+        </center>
        
 
       </div>
@@ -313,8 +315,8 @@
           <div class="col-lg-7">
             <p>
             The event will comprise of two parts: 
-<br>The first part would feature talks from experts from onboarded (participating) industry (government and private sector), research labs or start-ups on various technical topics in hybrid (offline+webinar) mode. This may be conducted either as a half or full day slot, based on the number of talks by participating organizations.
-<br>The second part would involve registered students directly interacting with experts and industry booths at a physical event. This would be a networking event for potential avenues of engagement between students and industry professionals.
+            <br>The first part would feature talks from experts from onboarded (participating) industry (government and private sector), research labs or start-ups on various technical topics in hybrid (offline+webinar) mode. This may be conducted either as a half or full day slot, based on the number of talks by participating organizations.
+            <br>The second part would involve registered students directly interacting with experts and industry booths at a physical event. This would be a networking event for potential avenues of engagement between students and industry professionals.
 
             </p>
           </div>

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Committes | YPSIC 2022</title>
+  <title>Organizing Committee | YPSIC 2022</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -24,10 +24,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Committes</h2>
+          <h2>Organizing Committee</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Committes</li>
+            <li>Organizing Committee</li>
           </ol>
         </div>
 
@@ -40,7 +40,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Office Bearears</h2>
+          <h2 data-aos="fade-in">Organizng Committe</h2>
         </div>
 
         <div class="row">
@@ -100,7 +100,7 @@
             </div>
           </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6 offset-4">
+          <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="pic"><img src="../assets/img/team//Ketan.jpg" alt=""></div>
               <h4>Ketan Keshav</h4>
@@ -113,21 +113,21 @@
               </div>
             </div>
           </div>
-        </div>
 
-      </div>
-    </section><!-- End Team Section -->
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="pic"><img src="../assets/img/team/sumit.jpg" alt=""></div>
+              <h4>Dr. Sumit Soman</h4>
+              <span>Execom Member</span>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
 
-      <!-- ======= Execom Section ======= -->
-    
-      <section id="team" class="team section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2 data-aos="fade-in">Execom Members</h2>
-        </div>
-
-        <div class="row">
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/nagalekha.jpg" alt=""></div>
@@ -155,11 +155,12 @@
               </div>
             </div>
           </div>
+        </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="pic"><img src="../assets/img/team/sumit.jpg" alt=""></div>
-              <h4>Dr. Sumit Soman</h4>
+        <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="pic"><img src="../assets/img/team/skanda.jpg" alt=""></div>
+              <h4>Skanda Prasad</h4>
               <span>Execom Member</span>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -169,9 +170,6 @@
               </div>
             </div>
           </div>
-          
-        </div>
-
       </div>
     </section><!-- End Execom Section -->
 
