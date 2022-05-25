@@ -248,8 +248,8 @@
         <div class="section-title">
           <h2 data-aos="fade-in">Sponsorships</h2>
           <p data-aos="fade-in">We welcome participation from industry players including private companies, R&D labs and government institutions and startups. Please reach out to organizing committee members for further details.</p>
-          <p data-aos="fade-in">Sumit Soman - sumitsoman@ieee.org</p>
-          <p data-aos="fade-in">Ketan Keshav - ketan.keshav@ieee.org</p>
+          <p data-aos="fade-in">Sumit Soman - <a href="mailto:sumitsoman@ieee.org">sumitsoman@ieee.org</a></p>
+          <p data-aos="fade-in">Ketan Keshav - <a href="mailto:ketan.keshav@ieee.org">ketan.keshav@ieee.org</a></p>
         </div>
 
         <div class="row no-gutters">
@@ -378,7 +378,7 @@
 
         <div class="row">
 
-          <div class="col-lg-6">
+          <div class="col-lg-12">
 
             <div class="row">
               <div class="col-md-12">
@@ -392,21 +392,26 @@
                 <div class="info-box mt-4" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>sumitsoman@ieee.org<br>ketan.keshav@ieee.org</p>
+                  <p>
+                    <a href="mailto:sumitsoman@ieee.org">sumitsoman@ieee.org</a>
+                    <br>
+                    <a href="mailto:ketan.keshav@ieee.org">ketan.keshav@ieee.org</a>
+                  </p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>Sumit : +91 98104 89755<br>Pramod : +91 91087 89327</p>
+                  <p>Sumit : <a href="tel:+91 98104 89755">+91 98104 89755</a>
+                  <br>Pramod :<a href="tel:+91 91087 89327">+91 91087 89327</a></p>
                 </div>
               </div>
             </div>
 
           </div>
 
-          <div class="col-lg-6 mt-4 mt-lg-0">
+          <!-- <div class="col-lg-6 mt-4 mt-lg-0">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form w-100" data-aos="fade-up">
               <div class="row">
                 <div class="col-md-6 form-group">
@@ -429,7 +434,7 @@
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
-          </div>
+          </div> -->
 
         </div>
 
