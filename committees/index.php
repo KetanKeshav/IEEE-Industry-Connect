@@ -186,7 +186,7 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/shazib.jpg" alt=""></div>
-              <h4>Shazib Javed Wani</h4>
+              <h4>Shazib Javaid Wani</h4>
               <span>Volunteer</span>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
