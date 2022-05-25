@@ -21,7 +21,7 @@
   <section id="hero">
 
     <div class="container">
-      <div class="row d-flex align-items-center"">
+      <div class="row d-flex align-items-center">
       <div class=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
         <h1>Young Professionals Student Industry Connect </h1>
         <h2> 2022</h2>

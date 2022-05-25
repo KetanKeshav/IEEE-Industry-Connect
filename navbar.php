@@ -14,11 +14,7 @@
           <li><a class="nav-link scrollto" href="#about">About The Event</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Sponsorships</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Agenda</a></li>
-<<<<<<< HEAD
-          <li><a class="nav-link scrollto" href="#team">Committees</a></li>
-=======
           <li><a class="nav-link scrollto" href="./committees/">Committee</a></li>
->>>>>>> f34c51826f0101c1b72a9876ebc4c37e10b5d505
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
