@@ -37,7 +37,7 @@
             <h4>Quick Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Organizing Committee</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./committees/">Organizing Committee</a></li>
             </ul>
         </div>
 

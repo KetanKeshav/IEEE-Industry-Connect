@@ -50,7 +50,6 @@
               <h4>Depdeep Sarkar</h4>
               <span>Chair</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -64,7 +63,6 @@
               <h4>Kishore Kumar Sharma</h4>
               <span>Chair Elect</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -78,7 +76,6 @@
               <h4>Neha Kumari</h4>
               <span>Vice Chair</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -92,7 +89,6 @@
               <h4>Samarth Bonthala</h4>
               <span>Vice Chair</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -106,7 +102,6 @@
               <h4>Ketan Keshav</h4>
               <span>Treasurer</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -120,7 +115,6 @@
               <h4>Dr. Sumit Soman</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -134,7 +128,6 @@
               <h4>Nagalekha Ramesh</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -148,7 +141,6 @@
               <h4>Pramood BN</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -163,7 +155,6 @@
               <h4>Skanda Prasad</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -189,7 +180,6 @@
               <h4>Shazib Javaid Wani</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -203,7 +193,6 @@
               <h4>Soumyadip Roy</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
@@ -217,7 +206,6 @@
               <h4>Peerzada Anzar Azmat</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
