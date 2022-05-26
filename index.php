@@ -24,7 +24,7 @@
       <div class="row d-flex align-items-center">
       <div class=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
         <h1>Young Professionals Student Industry Connect 2022 </h1>
-        <h2> June 4-5 2022</h2>
+        <h2> June 26-27 2022</h2>
         <a href="https://in.explara.com/e/ypsic2022" class="btn-get-started scrollto">Register Now</a>
       </div>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
@@ -330,7 +330,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-              This Event is tentatively planned for 4th-5th June 2022 at Atria Institute of Technology, Hebbal, Bengaluru.
+              This Event is tentatively planned for 26th-27th June 2022 at Atria Institute of Technology, Hebbal, Bengaluru.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
