@@ -46,7 +46,7 @@
     </div>
 
     <div class="container footer-bottom clearfix col-lg-12">
-      <div class="copyright offset-4">
+      <div class="copyright offset-lg-4">
         &copy; Copyright <strong><span>IEEE Young Professionals | IEEE Bangalore Section</span></strong>
       </div>
       

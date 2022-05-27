@@ -38,18 +38,18 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <!-- <section id="clients" class="clients section-bg">
+    <section id="clients" class="clients section-bg">
       <div class="container">
 
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
-          <div class="col-lg-2 col-md-4 col-6">
+          <div class="col-lg-12 col-md-12 col-12">
             <div class="client-logo">
-              <img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="flip-right">
+              <a href="https://atria.edu/home.php" target="_blank"><img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="flip-right"></a>
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
+          <!-- <div class="col-lg-2 col-md-4 col-6">
             <div class="client-logo">
               <img src="assets/img/clients/client-2.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="100">
             </div>
@@ -77,12 +77,12 @@
             <div class="client-logo">
               <img src="assets/img/clients/client-6.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="500">
             </div>
-          </div>
+          </div> -->
 
         </div>
 
       </div>
-    </section> -->
+    </section>
     <!-- End Clients Section -->
 
     <!-- ======= About Section ======= -->

@@ -212,6 +212,19 @@
               </div>
             </div>
           </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="member" data-aos="fade-up">
+              <div class="pic"><img src="../assets/img/team/aniketh.jpg" alt=""></div>
+              <h4>Aniketh Shenoy K</h4>
+              <span>Volunteer</span>
+              <div class="social">
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
         </div>
 
       </div>

@@ -36,7 +36,7 @@
   <div class="col-lg-4 col-md-6 footer-links">
       <h4>Quick Links</h4>
       <ul>
-        <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+        <li><i class="bx bx-chevron-right"></i> <a href="https://ypsic2022.ieeebangalore.org/">Home</a></li>
         <li><i class="bx bx-chevron-right"></i> <a href="#">Organizing Committee</a></li>
       </ul>
   </div>
@@ -46,7 +46,7 @@
 </div>
 
     <div class="container footer-bottom clearfix col-lg-12">
-      <div class="copyright offset-4">
+      <div class="copyright offset-lg-4">
         &copy; Copyright <strong><span>IEEE Young Professionals | IEEE Bangalore Section</span></strong>
       </div>
       
