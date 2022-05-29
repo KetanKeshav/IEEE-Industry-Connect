@@ -44,6 +44,9 @@
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
           <div class="col-lg-12 col-md-12 col-12">
+          <center>
+            <h2 data-aos="fade-in">Hosting College</h2>
+          </center>  
             <div class="client-logo">
               <a href="https://atria.edu/home.php" target="_blank"><img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="flip-right"></a>
             </div>
