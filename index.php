@@ -99,12 +99,13 @@
             <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
               <h3 data-aos="fade-in" data-aos-delay="100">About the Event</h3>
               <p data-aos="fade-in">
-              IEEE Young Professionals(Bangalore Section) in association with IEEE Bangalore Section is organizing “YP Student Industry Connect 2022”(YPSIC 2022), a once-in-a lifetime chance for students to network with professionals.
+              IEEE Young Professionals (Bangalore Section) in association with IEEE Bangalore Section is organizing <b>YP Student Industry Connect 2022 (YPSIC 2022)</b>, a once-in-a lifetime chance for students to network with industry professionals..
               </p>
               <br>
               <br>
               <p data-aos="fade-in">
-              Undergraduate and graduate students will connect with specialists from industry, startups and research groups at YPSIC 2022. This would lead to talks about innovative ideas from the youthful talent pool that are closely related to current industry trends. The two-day event will include technical discussions from industry professionals as well as live interaction with students to explore additional opportunities. 
+              Undergraduate and graduate students can connect with experts from industry, startups and research groups at YPSIC 2022. This would lead to talks about innovative ideas from the youthful talent pool that are closely related to current industry trends. The two-day event will feature <b>expert technical talks from industry professionals</b> as well as <b> live event with students to engage with IEEE YP</b>.
+ 
 
               </p>
             
@@ -319,10 +320,11 @@
           </div>
           <div class="col-lg-7">
             <p>
-            The event will comprise of two parts: 
-            <br>The first part would feature talks from experts from onboarded (participating) industry (government and private sector), research labs or start-ups on various technical topics in hybrid (offline+webinar) mode. This may be conducted either as a half or full day slot, based on the number of talks by participating organizations.
-            <br>The second part would involve registered students directly interacting with experts and industry booths at a physical event. This would be a networking event for potential avenues of engagement between students and industry professionals.
-
+            The event will comprise of two parts:
+            <ul> 
+            <li>The first part would feature talks from experts from participating industries (government and private sector), research labs or start-ups on various technical topics in online mode.</li> 
+            <li>The second part would involve a live event where students can attend and explore the benefits and opportunities with IEEE YP Affinity Group as well as interact with members.</li>
+            </ul>
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
