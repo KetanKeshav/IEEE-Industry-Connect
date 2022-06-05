@@ -191,6 +191,10 @@
                 <br>
               <b>To learn more about the speakers, click on the button below.</b>        
                </p>
+               <br>
+               <p>
+               <a href="https://in.explara.com/e/ypsic2022" class="btn-register">Know More</a>
+</p>
             
             </div><!-- End .content-->
           </div>
