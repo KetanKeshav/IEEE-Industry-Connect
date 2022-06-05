@@ -175,7 +175,7 @@
       </div>
     </section><!-- End Features Section -->
     <!-- Speakers Section Begins -->
-    <section id="speakers" class="about section-bg">
+    <section id="speakers" class="speakers section-bg">
       <div class="container">
 
         <div class="row gy-4">

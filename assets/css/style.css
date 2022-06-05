@@ -646,8 +646,8 @@ section {
   color: #848484;
   margin-left: 60px;
 }
-.speakers .images {
-  background: url("../img/speaker.jpg") center center no-repeat;
+.speakers  .images {
+  background: url('../img/speaker.png') center center no-repeat;
   background-size: cover;
   min-height: 200px;
 }
