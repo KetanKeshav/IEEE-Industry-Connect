@@ -8,6 +8,8 @@
   <title>Speakers | YPSIC 2022</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+  <meta property='og:title' content='Speakers | YPSIC 2022 '/>
+  <meta property='og:image' content='../assets/img/meta-logo.png'/>
 
   <?php include './header.php' ?>
 
