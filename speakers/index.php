@@ -49,7 +49,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
+              <div class="pic"><img src="../assets/img/Speakers/avisek.jpg" alt=""></div>
               <h4>Dr Avisek Lahiri</h4>
               <span>Research Software Engineer, Google</span>
               <div class="social">
@@ -66,7 +66,7 @@
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <h5 class="modal-title" id="exampleModalLabel">Dr Avisek Lahiri</h5>
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -74,7 +74,7 @@
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="../assets/img/team/debdeep.jpg" style="max-width: 200px;" alt=""></div>
+                      <div class="col-md-4"><img src="../assets/img/Speakers/avisek.jpg" style="max-width: 200px;" alt=""></div>
                       <div class="col-md-4 ml-auto">Info</div>
                     </div>
                   </div>
@@ -89,7 +89,7 @@
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
+              <div class="pic"><img src="../assets/img/Speakers/jyotirmoy.jpg" alt=""></div>
               <h4>Dr Jyotirmoy Bannerjee</h4>
               <span>Principal Data Scientist, Ericsson</span>
               <div class="social">
@@ -106,7 +106,7 @@
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <h5 class="modal-title" id="exampleModalLabel">Dr Jyotirmoy Bannerjee</h5>
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
