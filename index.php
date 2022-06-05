@@ -175,11 +175,11 @@
       </div>
     </section><!-- End Features Section -->
     <!-- Speakers Section Begins -->
-    <section id="about" class="about section-bg">
+    <section id="speakers" class="about section-bg">
       <div class="container">
 
         <div class="row gy-4">
-          <div class="image col-xl-5"></div>
+          <div class="images col-xl-5"></div>
           <div class="col-xl-7">
             <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
               <h3 data-aos="fade-in" data-aos-delay="100">Speakers at YPSIC 2022</h3>
