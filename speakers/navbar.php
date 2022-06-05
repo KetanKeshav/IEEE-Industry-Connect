@@ -14,8 +14,8 @@
           <li><a class="nav-link scrollto" href="../index.php#about">About The Event</a></li>
           <li><a class="nav-link scrollto" href="../index.php#pricing">Sponsorships</a></li>
           <li><a class="nav-link scrollto" href="../index.php#portfolio">Agenda</a></li>
-          <li><a class="nav-link scrollto active" href="../index.php#team">Organizing Committee</a></li>
-          <li><a class="nav-link scrollto" href=".././speakers/">Speakers</a></li>
+          <li><a class="nav-link scrollto" href="./../committees/">Organizing Committee</a></li>
+          <li><a class="nav-link scrollto active" href="./index.php#speakers">Speakers</a></li>
           <li><a class="nav-link scrollto" href="../index.php#student-reg">Registration</a></li>
           <li><a class="nav-link scrollto" href="../index.php#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="https://in.explara.com/e/ypsic2022">Register Now</a></li>
