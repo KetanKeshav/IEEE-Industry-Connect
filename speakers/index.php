@@ -11,6 +11,8 @@
   <meta property='og:title' content='Speakers | YPSIC 2022 '/>
   <meta property='og:image' content='../assets/img/meta-logo.png'/>
 
+  <meta name="twitter:title" content="Speakers | YPSIC 2022">
+  <meta name="twitter:image" content="../assets/img/meta-logo.png">
   <?php include './header.php' ?>
 
 </head>
