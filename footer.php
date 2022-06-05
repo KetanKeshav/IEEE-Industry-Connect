@@ -38,6 +38,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="./committees/">Organizing Committee</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./speakers/">Speakers</a></li>
             </ul>
         </div>
 

@@ -38,6 +38,7 @@
       <ul>
         <li><i class="bx bx-chevron-right"></i> <a href="https://ypsic2022.ieeebangalore.org/">Home</a></li>
         <li><i class="bx bx-chevron-right"></i> <a href="#">Organizing Committee</a></li>
+        <li><i class="bx bx-chevron-right"></i> <a href="../speakers/">Speakers</a></li>
       </ul>
   </div>
 
