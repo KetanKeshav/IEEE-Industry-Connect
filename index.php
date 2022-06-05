@@ -174,6 +174,30 @@
 
       </div>
     </section><!-- End Features Section -->
+    <!-- Speakers Section Begins -->
+    <section id="about" class="about section-bg">
+      <div class="container">
+
+        <div class="row gy-4">
+          <div class="image col-xl-5"></div>
+          <div class="col-xl-7">
+            <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
+              <h3 data-aos="fade-in" data-aos-delay="100">Speakers at YPSIC 2022</h3>
+              <p data-aos="fade-in">
+              YPSIC 2022 provides a fantastic opportunity for students to learn from highly experienced speakers from all industries who are currently employed in top organisations in various roles. 
+              </p>
+              
+              <p data-aos="fade-in">
+                <br>
+              <b>To learn more about the speakers, click on the button below.</b>        
+               </p>
+            
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Speakers Section -->
 
 
     <!-- ======= Pricing Section ======= -->
