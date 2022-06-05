@@ -50,8 +50,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Dr Avisek Lahiri</h4>
+              <span>Research Software Engineer, Google</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
@@ -90,8 +90,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Dr Jyotirmoy Bannerjee</h4>
+              <span>Principal Data Scientist, Ericsson</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
@@ -130,8 +130,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Dhaval Patel</h4>
+              <span>Co-Founder, AtliQ Technologies</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
@@ -170,8 +170,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Dr Himanshu Pant</h4>
+              <span>Head Of Analytics, Adani Green</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
@@ -210,8 +210,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Dr Badrinath Ramamurthy</h4>
+              <span>IIIT Bangalore, Ex Ericsson Research</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
@@ -250,8 +250,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Dr Manasa K</h4>
+              <span>Associate Director- Creativity AI, Games 24x7</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
@@ -290,8 +290,8 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
-              <span>Chair</span>
+              <h4>Chhavi Chawla</h4>
+              <span>Advanced Data Scientist, Honeywell</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">

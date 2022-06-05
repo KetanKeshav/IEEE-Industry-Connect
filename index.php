@@ -193,7 +193,7 @@
                </p>
                <br>
                <p>
-               <a href="https://in.explara.com/e/ypsic2022" class="btn-register">Know More</a>
+               <a href="./speakers/" class="btn-register">Know More</a>
 </p>
             
             </div><!-- End .content-->
