@@ -318,7 +318,7 @@
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="../assets/img/Speakers/" alt=""></div>
+              <div class="pic"><img src="../assets/img/Speakers/chhavi.jpg" alt=""></div>
               <h4>Chhavi Chawla</h4>
               <span>Advanced Data Scientist, Honeywell</span>
               <div class="social">
@@ -343,7 +343,7 @@
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="../assets/img/Speakers/" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="../assets/img/Speakers/chhavi.jpg" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://in.linkedin.com/in/chhavichawla"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
