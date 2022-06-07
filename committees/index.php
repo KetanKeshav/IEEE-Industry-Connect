@@ -40,7 +40,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Organizng Committe</h2>
+          <h2 data-aos="fade-in">Organizng Committee</h2>
         </div>
 
         <div class="row">
