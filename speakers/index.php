@@ -299,7 +299,7 @@
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="../assets/img/Speakers/manasa.jpg" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="../assets/img/Speakers/Manasa.jpeg" style="max-width: 200px;" alt="">
                       <div class="social">
                         <a href="https://in.linkedin.com/in/manasa-kolla"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
