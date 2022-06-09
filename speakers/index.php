@@ -274,7 +274,7 @@
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="../assets/img/Speakers/manasa.jpg" alt=""></div>
+              <div class="pic"><img src="../assets/img/Speakers/Manasa.jpeg" alt="" width="307" height="307"></div>
               <h4>Dr Manasa K</h4>
               <span>Associate Director- Creativity AI, Games 24x7</span>
               <div class="social">
@@ -304,7 +304,7 @@
                         <a href="https://in.linkedin.com/in/manasa-kolla"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
                       </div>
-                      <div class="col-md-8 ml-auto">Dr Manasa K is currently an Associate Director for the Creativity AI at Games24X7. She holds a Ph.D. in Communication Signal Processing from Indian Institute of Technology, Hyderabad. She has experience in working with real-world problems in the domains of Computer Vision, Image/Video Analytics, Deep Learning and Biomedical Image Processing. Prior to Games 24X7, Dr Manasa K has worked with Conduent Labs (formerly known as Xerox Research Center India) and SONY.</div>
+                      <div class="col-md-8 ml-auto">Dr Manasa K is currently an Associate Director for the Creativity AI at Games24X7. She holds a Ph.D. in Communication Signal Processing from Indian Institute of Technology,  Hyderabad. She has experience in working with real-world problems in the domains of Computer Vision, Image/Video Analytics and Deep Learning. Prior to Games 24X7, Dr Manasa K has worked with Conduent Labs US and India (formerly known as Xerox Research Center) and SONY.</div>
                     </div>
                   </div>
                 </div>
