@@ -274,9 +274,9 @@
           
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
-              <div class="pic"><img src="../assets/img/Speakers/Manasa.jpeg" alt="" width="307" height="307"></div>
+              <div class="pic"><img src="../assets/img/Speakers/Manasa.jpeg" alt="" width="260" height="260"></div>
               <h4>Dr Manasa K</h4>
-              <span>Associate Director- Creativity AI, Games 24x7</span>
+              <span>Associate Director-Creativity AI,Games 24x7</span>
               <div class="social">
                 <!-- Button trigger modal -->
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal6">
@@ -367,7 +367,7 @@
               <span>Software Engineer, Gupshup</span>
               <div class="social">
                 <!-- Button trigger modal -->
-                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal7">
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal8">
                   Know More
                 </button>
               </div>
@@ -375,11 +375,11 @@
           </div>
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal7" tabindex="-1" aria-labelledby="Modal7Label" aria-hidden="true">
+          <div class="modal fade bd-example-modal-lg" id="Modal8" tabindex="-1" aria-labelledby="Modal8Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="Modal7Label">Ketan Keshav</h5>
+                  <h5 class="modal-title" id="Modal8Label">Ketan Keshav</h5>
                   <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -387,9 +387,9 @@
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="../assets/img/Speakers/chhavi.jpg" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="../assets/img/Speakers/ketan.jpg" style="max-width: 200px;" alt="">
                       <div class="social">
-                        <a href="https://in.linkedin.com/in/chhavichawla"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        <a href="https://www.linkedin.com/in/ketan-keshav/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
                       </div>
                       <div class="col-md-8 ml-auto">Ketan Keshav is a Computer Science Engineer, currently working as a Software Engineer at Gupshup. He is passionate about Mobile and Web Development, Cyber Security, Coding, and Cricket. He completed two internships to further amplify his passion. He is an experienced Chairperson with a demonstrated history of working in the higher education industry. He is a highly organized and detail-oriented individual with Event Management experience having organized several IEEE Events, hackathons, and college workshops. His team was the Regional Level Winner of Technology Dissemination Contest conducted by IEEE Pune Section. He has competed at TCS EngiNX and was the finalist and the 2nd Runner up of this National-level competition. He is currently an Execom member at IEEE Bangalore Section, Treasurer, IEEE Young Professionals, and SCT Mentor, IEEE Bangalore Section. Other titles he holds are Section Chapter Representative, IEEE TEMS, India, Member Student Representative, IEEE Bangalore Section, PR and Promotions Coordinator for Students Activities Committee (SAC), IEEE Bangalore Section, IEEE Chairman, and Student Activity Committee(SAC) Chairman for K.S Institute of Technology. Despite his eventful life, he always makes time for family, cricket, and volunteers at various NGOs, and conducts monthly events which are aimed to make life better for the underprivileged
@@ -411,10 +411,10 @@
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/Speakers/sumit.jpg" alt=""></div>
               <h4>Sumit Soman</h4>
-              <span>Profession</span>
+              <span>Senior Data Scientist, Ericsson</span>
               <div class="social">
                 <!-- Button trigger modal -->
-                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal7">
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal9">
                   Know More
                 </button>
               </div>
@@ -422,11 +422,11 @@
           </div>
 
           <!-- Modal -->
-          <div class="modal fade bd-example-modal-lg" id="Modal7" tabindex="-1" aria-labelledby="Modal7Label" aria-hidden="true">
+          <div class="modal fade bd-example-modal-lg" id="Modal9" tabindex="-1" aria-labelledby="Modal9Label" aria-hidden="true">
             <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="Modal7Label">Sumit Soman</h5>
+                  <h5 class="modal-title" id="Modal9Label">Sumit Soman</h5>
                   <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -434,9 +434,9 @@
                 <div class="modal-body">
                   <div class="container-fluid">
                     <div class="row">
-                      <div class="col-md-4"><img src="../assets/img/Speakers/chhavi.jpg" style="max-width: 200px;" alt="">
+                      <div class="col-md-4"><img src="../assets/img/Speakers/sumit.jpg" style="max-width: 200px;" alt="">
                       <div class="social">
-                        <a href="https://in.linkedin.com/in/chhavichawla"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
+                        <a href="https://www.linkedin.com/in/sumitsoman/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
                       </div>
                       <div class="col-md-8 ml-auto">BIO</div>
