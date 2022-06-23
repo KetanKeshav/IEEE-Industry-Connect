@@ -439,7 +439,7 @@
                         <a href="https://www.linkedin.com/in/sumitsoman/"target=_blank><i class="bi bi-linkedin mt-2" style="font-size: 25px;"></i></a>
                       </div>
                       </div>
-                      <div class="col-md-8 ml-auto">BIO</div>
+                      <div class="col-md-8 ml-auto">Sumit Soman is currently a Senior Data Scientist with Ericsson Global AI Accelerator. Prior to this, he worked with the Health Informatics Group at the Center for Development of Advanced Computing since 2011 in various capacities. He holds a Ph.D. in Machine Learning from IIT Delhi and is a Senior Member of the IEEE. He is an Executive Committee member of the IEEE Sensors Council and the Young Professionals Affinity Group of the IEEE Bengaluru Section. He has published several research papers and patents, and is an Editor for the IETE Journal of Research. He is also a voting member of the IEEE Standards Committee Working Group on Reporting Standards for in-Vivo Neural Interface Research and the IEEE Industry Connections group for Neurotechnologies for Brain Computer Interfaces.</div>
                     </div>
                   </div>
                 </div>
