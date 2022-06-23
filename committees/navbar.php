@@ -13,7 +13,7 @@
           <li><a class="nav-link scrollto" href="../index.php">Home</a></li>
           <li><a class="nav-link scrollto" href="../index.php#about">About The Event</a></li>
           <li><a class="nav-link scrollto" href="../index.php#pricing">Sponsorships</a></li>
-          <li><a class="nav-link scrollto" href="../index.php#portfolio">Agenda</a></li>
+          <li><a class="nav-link scrollto" href="../index.php#agenda">Agenda</a></li>
           <li><a class="nav-link scrollto active" href="../index.php#team">Organizing Committee</a></li>
           <li><a class="nav-link scrollto" href=".././speakers/">Speakers</a></li>
           <li><a class="nav-link scrollto" href="../index.php#student-reg">Registration</a></li>
