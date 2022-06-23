@@ -176,7 +176,7 @@
     </section><!-- End Features Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features section-bg">
+    <section id="agenda" class="agenda section-bg">
       <div class="container">
 
         <div class="section-title">
