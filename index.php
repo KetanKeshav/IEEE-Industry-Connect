@@ -174,6 +174,22 @@
 
       </div>
     </section><!-- End Features Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2 data-aos="fade-in">AGENDA</h2>
+                  </div>
+
+        <div class="row content">
+          <div class="col-lg-12 col-md-12 col-12" data-aos="fade-right">
+            <img src="assets/img/agenda.png" class="img-fluid" alt="">
+          </div>
+         
+        </div>
+
     <!-- Speakers Section Begins -->
     <section id="speakers" class="speakers section-bg">
       <div class="container">
