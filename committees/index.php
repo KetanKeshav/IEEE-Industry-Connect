@@ -26,7 +26,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Organizing Committee</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="../index.php">Home</a></li>
             <li>Organizing Committee</li>
           </ol>
         </div>
@@ -47,12 +47,11 @@
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="../assets/img/team/debdeep.jpg" alt=""></div>
-              <h4>Depdeep Sarkar</h4>
+              <h4>Debdeep Sarkar</h4>
               <span>Chair</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+               
+                <a href="https://www.linkedin.com/in/debdeep-sarkar-04b95023/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -63,9 +62,8 @@
               <h4>Kishore Kumar Sharma</h4>
               <span>Chair Elect</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+               
+                <a href="https://www.linkedin.com/in/kishore-kumar-sharma-o-912a9481/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -76,9 +74,8 @@
               <h4>Neha Kumari</h4>
               <span>Vice Chair</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                
+                <a href="https://www.linkedin.com/in/neha-kumari-39598273/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -89,9 +86,8 @@
               <h4>Samarth Bonthala</h4>
               <span>Vice Chair</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+               
+                <a href="https://www.linkedin.com/in/samarth-bonthala/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -102,9 +98,8 @@
               <h4>Ketan Keshav</h4>
               <span>Treasurer</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+               
+                <a href="https://www.linkedin.com/in/ketan-keshav/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -115,9 +110,8 @@
               <h4>Dr. Sumit Soman</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                
+                <a href="https://www.linkedin.com/in/sumitsoman/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -128,9 +122,8 @@
               <h4>Nagalekha Ramesh</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+               
+                <a href="https://www.linkedin.com/in/nagalekha-ramesh/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -141,9 +134,8 @@
               <h4>Pramood BN</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                
+                <a href="https://www.linkedin.com/in/pramodbn27/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -155,9 +147,8 @@
               <h4>Skanda Prasad</h4>
               <span>Execom Member</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                
+                <a href="https://www.linkedin.com/in/skandaprasad11/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -180,9 +171,7 @@
               <h4>Shazib Javaid Wani</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/shazib-wani-bb1276200/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -193,9 +182,8 @@
               <h4>Soumyadip Roy</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+               
+                <a href="https://www.linkedin.com/in/soumyadip-roy-364539211/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -206,9 +194,8 @@
               <h4>Peerzada Anzar Azmat</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                
+                <a href="https://www.linkedin.com/in/peerzadaanzar/" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -219,9 +206,8 @@
               <h4>Aniketh Shenoy K</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                
+                <a href="https://in.linkedin.com/in/anikethshenoy" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -232,9 +218,7 @@
               <h4>Subramanya Navada K R</h4>
               <span>Volunteer</span>
               <div class="social">
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="" target="_blank"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
           </div>
