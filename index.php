@@ -43,6 +43,40 @@
 
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
+          <div class="section-title mt-4">
+            <h2 data-aos="fade-in">Participating Companies for Placement</h2>
+          </div> 
+
+          <div class="col-lg-2 col-md-4 col-6 offset-1">
+            <div class="client-logo">
+            <a href="https://www.muthootfinance.com/" target="_blank"> <img src="assets/img/clients/1.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="100" style="height:80px;width:225px"> </a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="client-logo">
+            <a href="https://www.hdfcbank.com/" target="_blank"><img src="assets/img/clients/2.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="200" style="height:80px;width:225px"> </a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="client-logo">
+            <a href="http://www.zugangindia.com/" target="_blank"> <img src="assets/img/clients/3.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="300" style="height:80px;width:225px"> </a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="client-logo">
+            <a href="https://byjus.com/" target="_blank"> <img src="assets/img/clients/4.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="400" style="height:80px;width:225px"> </a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="client-logo">
+            <a href="https://liberintechnologies.com/" target="_blank"> <img src="assets/img/clients/5.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="500" style="height:80px;width:225px"> </a>
+            </div>
+          </div>
+          
           <div class="col-lg-12 col-md-12 col-12">
           
           <div class="section-title mt-4">
@@ -50,39 +84,6 @@
           </div> 
             <div class="client-logo">
               <a href="https://atria.edu/home.php" target="_blank"><img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="flip-right"></a>
-            </div>
-          </div>
-          <div class="section-title mt-4">
-            <h2 data-aos="fade-in">Participating Companies for Placement</h2>
-          </div> 
-
-          <div class="col-lg-2 col-md-4 col-6 offset-1">
-            <div class="client-logo">
-              <img src="assets/img/clients/1.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="100" style="height:80px;width:225px">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <div class="client-logo">
-              <img src="assets/img/clients/2.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="200" style="height:80px;width:225px">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <div class="client-logo">
-              <img src="assets/img/clients/3.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="300" style="height:80px;width:225px">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <div class="client-logo">
-              <img src="assets/img/clients/4.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="400" style="height:80px;width:225px">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-            <div class="client-logo">
-              <img src="assets/img/clients/5.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="500" style="height:80px;width:225px">
             </div>
           </div>
 
