@@ -44,7 +44,7 @@
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
           <div class="section-title mt-4">
-            <h2 data-aos="fade-in">Participating Companies for Placement</h2>
+            <h2 data-aos="fade-in">Participating Companies for Placement Drive</h2>
           </div> 
 
           <div class="col-lg-2 col-md-4 col-6 offset-1">
